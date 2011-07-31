@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Shared Permissions System
 Name:		php-horde-Horde_Share
-Version:	1.0.0
+Version:	1.1.0
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	82a7c618c6788f4a4247d6e4236f0a56
+# Source0-md5:	15387ae058728fdb7c683d5c90458281
 URL:		https://github.com/horde/horde/tree/master/framework/Share/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
