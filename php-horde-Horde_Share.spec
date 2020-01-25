@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Share
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Shared Permissions System
 Name:		php-horde-Horde_Share
 Version:	1.3.0
